@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://ankitwadhwa1402.github.io/Portfolio/" target="__blank">Ankit Wadhwa</a>
+  <a href="https://ankitwadhwa1402.github.io/Portfolio/" target="_parent">Ankit Wadhwa</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
