@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Website <br/>
   <a href="https://ankitwadhwa1402.github.io/" target="_parent">Ankit Wadhwa</a>
 </h2>
 <div align="center">
