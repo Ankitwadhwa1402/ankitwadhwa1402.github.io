@@ -44,9 +44,3 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 1. Installation: `npm install`
 
 2. In the project directory, you can run: `npm start`
-
-#� �i�n�t�e�r�a�c�t�i�v�e�d�i�a�r�y�
-�
-�#� �P�o�r�t�f�o�l�i�o�
-�
-�
